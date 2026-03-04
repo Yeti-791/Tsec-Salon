@@ -1,4 +1,4 @@
-# Tencent Security Salon - 腾讯安全沙龙议题仓库
+# Tencent Security Salon - 腾讯安全沙龙
 
 ### 简介 / Repository Introduction
 
@@ -25,75 +25,62 @@
 ###### _Tencent Cloud Ding Lab is one of the core laboratories of Tencent Security Joint Laboratory, focusing on cloud security technology research and innovation. It has profound technical accumulation and practical experience in cloud-native security, cloud data security, attack and defense confrontation, security governance and other fields. At the same time, it is responsible for the planning, operation and topic collection of Tencent Security Salon, and is the core controller of the salon's technical direction._
 
 
-### 历届沙龙信息汇总 / Past Salon Information Summary
+## 历届沙龙信息汇总 / Past Salon Information Summary
 
 本仓库已收录腾讯安全沙龙第1期至第7期全部资料，覆盖国内6大核心城市及1个国际站点，各期核心信息如下：
 
 ###### _The repository has included all materials from Phase 1 to Phase 7 of Tencent Security Salon, covering 6 core domestic cities and 1 international station. The core information of each phase is as follows:_
 
-|届数|举办时间|举办站点/城市|沙龙主题|核心技术方向|
+|期数|举办时间|举办站点/城市|沙龙主题|核心技术方向|
 |---|---|---|---|---|
 |7期|2026.01.27|新加坡|AAAI26-可信智能体安全研讨会|可信智能体、大模型安全、RAG、联邦学习、AI对齐、分布式隐私控制|
 |6期|2025.11.29|广州|锋刃无影，御见未来|红队攻防、云安全、域安全、物联网安全、攻防实战技术|
-|5期|2025.09.13|南京|锋刃无影，御见未来|红队攻防、云安全、威胁情报、工业互联网安全|
+|5期|2025.09.13|南京|锋刃无影，智御未来|红队攻防、云安全、威胁情报、工业互联网安全|
 |4期|2025.06.14|长沙|锋刃无影，御见未来|红队攻防、漏洞挖掘、数据安全、安全运营|
 |3期|2025.04.03|成都|锋刃无影，御见未来|红队攻防、云原生安全、物联网安全、实战攻防演练|
 |2期|2025.03.01|西安|模型有界，安全无疆|大模型安全、AI安全、对抗机器学习、模型漏洞挖掘|
 |1期|2024.12.21|武汉|相约江夏·智汇安全|网络安全通用技术、产学研融合、安全人才培养|
 
 
-### 核心技术方向 / Core Technical Directions
+## 核心技术方向 / Core Technical Directions
 
 腾讯安全沙龙长期聚焦网络安全前沿领域，结合行业发展趋势与实战需求，持续征集并分享以下方向的技术议题，也是本仓库的核心技术覆盖范围：
 
 ###### _Tencent Security Salon has long focused on the cutting-edge fields of cybersecurity, and continuously collects and shares technical topics in the following directions combined with industry development trends and practical needs, which are also the core technical coverage of this repository:_
 
-1. **AI安全/大模型安全（LLM Security）**：大模型漏洞、对抗机器学习、AI对齐、可信智能体
-
-2. **红队攻防（Red Team）**：实战攻防演练、漏洞挖掘与利用、渗透测试技术
-
-3. **云安全（Cloud Security）**：云原生安全、云数据安全、容器/虚拟化安全、云安全治理
-
-4. **域安全与物联网安全（Domain & IoT Security）**：工业互联网安全、物联网设备防护、域内攻防
-
-5. **威胁情报（Threat Intelligence）**：黑产分析、攻击溯源、威胁检测与响应
-
-6. **数据安全与隐私保护（Data Security & Privacy Protection）**：数据脱敏、分布式隐私控制、合规治理
-
-7. **前沿安全技术（Cutting-edge Security Technology）**：RAG增强、联邦学习、智能体生态安全
+> 1. **AI安全/大模型安全（LLM Security）**：大模型漏洞、对抗机器学习、AI对齐、可信智能体
+> 2. **红队攻防（Red Team）**：实战攻防演练、漏洞挖掘与利用、渗透测试技术
+> 3. **云安全（Cloud Security）**：云原生安全、云数据安全、容器/虚拟化安全、云安全治理
+> 4. **域安全与物联网安全（Domain & IoT Security）**：工业互联网安全、物联网设备防护、域内攻防
+> 5. **威胁情报（Threat Intelligence）**：黑产分析、攻击溯源、威胁检测与响应
+> 6. **数据安全与隐私保护（Data Security & Privacy Protection）**：数据脱敏、分布式隐私控制、合规治理
+> 7. **前沿安全技术（Cutting-edge Security Technology）**：RAG增强、联邦学习、智能体生态安全
 
 
-### 贡献指南 / Contribution Guide
+## 贡献指南 / Contribution Guide
 
 本仓库欢迎所有网络安全从业者参与共建，若你拥有腾讯安全沙龙的**遗漏资料、高清PPT、嘉宾分享笔记**等内容，或发现仓库中的资料错误，可通过以下方式贡献：
 
-1. 提交**Issue**：反馈资料缺失、错误或提出新的需求（地址：https://github.com/Yeti-791/Tsec-Salon.git/issues）
-
-2. 提交**Pull Request**：按仓库目录规范补充资料，提交前请确保文件命名清晰、格式统一（地址：https://github.com/Yeti-791/Tsec-Salon.git/pulls）
-
-
-### 致谢 / Acknowledgements
-
-1. 感谢**腾讯安全**、**腾讯云鼎实验室**为本沙龙的策划、运营与技术输出提供的核心支持；
-
-2. 感谢历届腾讯安全沙龙的所有分享嘉宾（高校教授、企业技术专家、科研机构研究员）的无私分享；
-
-3. 感谢上海交通大学、武汉大学、西安电子科技大学等高校及绿盟科技、数世咨询等企业的产学研合作支持；
-
-4. 感谢所有为网络安全技术生态建设贡献力量的安全从业者与社区。
+> 1. 提交**Issue**：反馈资料缺失、错误或提出新的需求（地址：https://github.com/Yeti-791/Tsec-Salon.git/issues）
+> 2. 提交**Pull Request**：按仓库目录规范补充资料，提交前请确保文件命名清晰、格式统一（地址：https://github.com/Yeti-791/Tsec-Salon.git/pulls）
 
 
-### 免责声明 / Disclaimer
+## 致谢 / Acknowledgements
 
-1. 本仓库所有资料均来源于**腾讯安全沙龙官方发布**，仅用于**网络安全技术学习与交流**，禁止用于商业用途；
+> 1. 感谢**腾讯安全**、**腾讯云鼎实验室**为本沙龙的策划、运营与技术输出提供的核心支持；
+> 2. 感谢历届腾讯安全沙龙的所有分享嘉宾（高校教授、企业技术专家、科研机构研究员）的无私分享；
+> 3. 感谢上海交通大学、武汉大学、西安电子科技大学等高校及绿盟科技、数世咨询等企业的产学研合作支持；
+> 4. 感谢所有为网络安全技术生态建设贡献力量的安全从业者与社区。
 
-2. 若因资料使用引发的任何法律问题，本仓库维护者不承担任何责任；
 
-3. 若涉及资料版权问题，请及时联系仓库维护者进行删除处理。
+## 免责声明 / Disclaimer
+
+> 1. 本仓库所有资料均来源于**腾讯安全沙龙官方发布**，仅用于**网络安全技术学习与交流**，禁止用于商业用途；
+> 2. 若因资料使用引发的任何法律问题，本仓库维护者不承担任何责任；
+> 3. 若涉及资料版权问题，请及时联系仓库维护者进行删除处理。
 
 
-### 联系方式 / Official Information
+## 联系方式 / Official Information
 
-- 沙龙官网：[https://zc.tencent.com/salon](https://zc.tencent.com/salon)
-
-- 议题征集：长期征集云安全、红队、AI安全、域安全等方向技术议题（联系人：腾讯云鼎实验室攻防负责人-李鑫 微信：Wx62887799）
+> - 沙龙官网：[https://zc.tencent.com/salon](https://zc.tencent.com/salon)
+> - 议题征集：长期征集云安全、红队、AI安全、域安全等方向技术议题（联系人：腾讯云鼎实验室攻防负责人-李鑫 微信：Wx62887799）
