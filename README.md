@@ -83,4 +83,4 @@
 ## 联系方式 / Official Information
 
 > - 沙龙官网：[https://zc.tencent.com/salon](https://zc.tencent.com/salon)
-> - 议题征集：长期征集云安全、红队、AI安全、域安全等方向技术议题（联系人：腾讯云鼎实验室攻防负责人-李鑫 微信：Wx62887799）
+> - 议题征集：长期征集云安全、红队、AI安全、域安全等方向技术议题（投递微信：Wx62887799）
