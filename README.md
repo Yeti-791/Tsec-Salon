@@ -1,8 +1,8 @@
-# Tencent Security Salon - 腾讯安全沙龙
+# Tencent Security Salon - 腾讯安全沙龙PPT
 
 ### 简介 / Repository Introduction
 
-本仓库用于整理、存放**腾讯安全沙龙**历届会议的全部议题、分享PPT及配套技术资料，旨在为网络安全从业者、科研人员及高校学子提供一站式的技术学习与交流资源，助力安全技术生态建设。
+本仓库用于整理、存放**腾讯安全沙龙**历届会议的全部议题PPT，旨在为网络安全从业者、科研人员及高校学子提供一站式的技术学习与交流资源，助力安全技术生态建设。
 
 ###### _This repository collects and stores all the topics, presentation slides and supporting technical materials of the past sessions of **Tencent Security Salon**, aiming to provide a one-stop technical learning and communication resource for cybersecurity practitioners, researchers and college students, and boost the construction of the security technology ecosystem._
 
